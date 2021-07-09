@@ -36,7 +36,7 @@
 ### カテゴリマスタ (m_category)
 |和名|属性名|型|PK|NN|FK|
 |---|-------|-------|---|---|---|
-|カテゴリID|category_id|int(50)|○|○||
+|カテゴリID|category_id|int(11)|○|○||
 |氏名|name|varchar(20)||○||
 |登録日|reg_date|date||○||
 
