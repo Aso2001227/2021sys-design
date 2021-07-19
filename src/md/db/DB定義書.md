@@ -1,4 +1,4 @@
-# DB定義書
+# テニスショップのDB設計
 
 ## ER図
 [ER図はこちら](https://github.com/Aso2001227/2021sys-design/blob/main/ER.md "ERずはこちら")
